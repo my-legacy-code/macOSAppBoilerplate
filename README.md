@@ -1,6 +1,6 @@
 # macOSAppBoilerplate
 
-Boilerplate for macOS apps with pure programmatically UI
+Boilerplate for macOS apps with pure programmatic UI
 
 ## Preview
 ![](screenshots/normal.jpg)
