@@ -10,4 +10,4 @@ Boilerplate for macOS apps with pure programmatic UI
 - **Harry Liu** - *Initial work* - [byliuyang](https://github.com/byliuyang)
 
 ## License
-This boilderplate is maintained under the MIT License.
+This boilerplate is maintained under the MIT License.
